@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\CodingLat\\Flutter\\Code_Flutter"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Code_Flutter"
+    }
+}

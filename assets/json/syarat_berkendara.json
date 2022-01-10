@@ -1,0 +1,37 @@
+[{
+        "id": "1",
+        "title": "Kamu Wajib Punya Surat Izin Mengemudi (SIM)",
+        "image": "assets/sim.jpg",
+        "content": "Setiap orang wajib memiliki Surat Izin Mengemudi (SIM) yang diterbitkan Polri. Untuk dapat mengemudikan kendaraan bermotor di Jalan. Prosedur pembuatannya mudah dengan proses yang transparan. Setiap pemohonnya harus memenuhi syarat-syarat tertentu seperti persyaratan usia, administratif, kesehatan dan lulus ujian untuk dapat memperolehnya.",
+        "itemsContent": [
+            "Surat Izin Mengemudi berfungsi sebagai bukti kompetensi mengemudi.",
+            "Surat Izin Mengemudi berfungsi sebagai registrasi Pengemudi Kendaraan Bermotor yang memuat keterangan identitas lengkap Pengemudi.",
+            "Data pada registrasi Pengemudi dapat digunakan untuk mendukung kegiatan penyelidikan, penyidikan, dan identifikasi forensik kepolisian."
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Kamu Wajib Membawa Surat Tanda Nomor Kendaraan (STNK)",
+        "image": "assets/stnk.jpg",
+        "content": "STNK adalah singkatan dari Surat Tanda Nomor Kendaraan. Di Indonesia sendiri, STNK diterbitkan oleh Samsat yang merupakan tempat pelayanan penerbitan dan pengesahan. Tentunya didukung oleh tiga instansi, yakni Polri, Dinas Pendapatan Provisi, dan PT Jasa Raharja. STNK dan SIM memang menjadi bagian penting dari surat resmi yang wajib dimiliki ketika ingin membawa mobil sendiri. Di dalam Surat Tanda Nomor Kendaraan (STNK) terdapat beberapa kolom. Dimulai dari identitas kepemilikan plat nomor polisi, nama & alamat pemilik mobil, hingga identitas mobil tersebut",
+        "itemsContent": [
+            "Setiap pengendara yang tidak dilengkapi Surat Tanda Nomor Kendaraan Bermotor (STNK) atau Surat Tanda Coba Kendaraan Bermotor (STCK) dipidana dengan pidana kurungan paling lama 2 bulan atau denda paling banyak Rp 500 ribu"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Pelat Nomor Kendaraan Harus Dipasang",
+        "image": "platnomor.png",
+        "content": "Salah satu kewajiban yang harus dipenuhi oleh pemilik kendaraan bermotor roda dua atau lebih, adalah memasang plat nomor di bagian depan maupun belakang kendaraannya. Tentu saja, plat yang dimaksud adalah tanda nomor identitas kendaraan yang telah ditetapkan oleh Kepolisian Negara Republik Indonesia.",
+        "itemsContent": [
+            "Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas Dan Angkutan Jalan pasal 68 ayat 1, yang berbunyi: \"Setiap Kendaraan Bermotor yang dioperasikan di Jalan wajib dilengkapi dengan Surat Tanda Nomor Kendaraan Bermotor dan Tanda Nomor Kendaraan Bermotor\""
+        ]
+    },
+    {
+        "id": "",
+        "title": "",
+        "image": "",
+        "content": "",
+        "itemsContent": []
+    }
+]
