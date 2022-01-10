@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
                   height: 16,
                 ),
                 Text(
-                  'Salah satu aturan yang harus dipahami oleh pengedara yaitu tentang Marka Jalan. Pengendara wajib memiliki pengetahuan tentang apa itu marka jalan dan harus mematuhi aturan tersebut. Tersedia berbagai macam materi yang dapat diakses dijelaskan dengan teks hingga berupa vidio.',
+                  'Tersedia berbagai macam materi yang dapat diakses dijelaskan dengan teks hingga berupa vidio.',
                   style: txLight.copyWith(
                     fontSize: 14,
                     color: blackColor,
